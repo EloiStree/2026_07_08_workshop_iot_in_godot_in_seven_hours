@@ -24,7 +24,9 @@ https://github.com/EloiStree/2026_03_23_doc_micro_bit_sensor/issues
 Long workshop on how to create a MicroBit in XR:   
 https://github.com/EloiStree/2026_03_20_workshop_hello_micro_bit   
 
-
+Some tool around MQTT:   
+https://github.com/EloiStree?tab=repositories&q=mqtt   
+   
 
 **Proof of concept:**   
 <img width="1417" height="801" alt="image" src="https://github.com/user-attachments/assets/abb93a20-916f-48c3-988d-bb23ad1fb872" />
