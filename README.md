@@ -12,18 +12,17 @@ Using existing simulation of component used in Iot industry, try to create a Rob
 
 ----------------------
 
-Git: 
-Create a UI form to allows modding in your game:
-https://github.com/EloiStree/2026_05_29_gdp_xr_ui_lab
+Create a UI form to allows modding in your game:   
+https://github.com/EloiStree/2026_05_29_gdp_xr_ui_lab   
 
-Find 3D graybox of IoT component:
-https://github.com/EloiStree/2026_04_11_gdp_learn_with_sensors
+Find 3D graybox of IoT component:   
+https://github.com/EloiStree/2026_04_11_gdp_learn_with_sensors   
 
-Documentation on the component to learn from:
-https://github.com/EloiStree/2026_03_23_doc_micro_bit_sensor/issues
+Documentation on the component to learn from:   
+https://github.com/EloiStree/2026_03_23_doc_micro_bit_sensor/issues   
 
-Long workshop on how to create a MicroBit in XR:
-https://github.com/EloiStree/2026_03_20_workshop_hello_micro_bit
+Long workshop on how to create a MicroBit in XR:   
+https://github.com/EloiStree/2026_03_20_workshop_hello_micro_bit   
 
 
 
