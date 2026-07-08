@@ -26,4 +26,8 @@ https://github.com/EloiStree/2026_03_20_workshop_hello_micro_bit
 
 
 
-
+**Proof of concept:**   
+<img width="1417" height="801" alt="image" src="https://github.com/user-attachments/assets/abb93a20-916f-48c3-988d-bb23ad1fb872" />
+https://youtu.be/BnndejesWyA?t=75   
+<img width="1097" height="532" alt="image" src="https://github.com/user-attachments/assets/b7e4ce9a-9b17-42c6-814a-05c1cde4b6f3" />
+https://youtu.be/rroFRFyCsaM?t=28   
